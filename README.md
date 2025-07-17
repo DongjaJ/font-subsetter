@@ -34,7 +34,7 @@
 1. 저장소 클론:
 ```bash
 git clone https://github.com/DongjaJ/font-subsetter.git
-cd subset-fonts
+cd font-subsetter
 ```
 
 2. 가상환경 생성 및 의존성 설치:
